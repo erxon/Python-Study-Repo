@@ -1,0 +1,27 @@
+John Doe
+123 Main Street
+City, State ZIP
+john.doe@email.com
+(555) 123-4567
+
+September 15, 2025
+
+Mr. James Jones
+Director of Operations
+Acme Corporation
+456 Business Rd.
+Metropolis, State ZIP
+
+Dear Mr. Jones,
+
+I am writing to formally resign from my position as Senior Marketing Analyst at Acme Corporation, effective November 26, 2025.
+
+I have greatly appreciated the opportunities for professional and personal development that Acme has provided me during my tenure. Working with such a talented team has been a rewarding experience, and I am grateful for the support and mentorship I have received.
+
+During the transition period, I will do everything possible to ensure a smooth handover of my responsibilities. Please let me know how I can assist in training a replacement or documenting ongoing projects.
+
+Thank you again for the chance to be part of Acme Corporation. I look forward to staying in touch, and I wish the company continued success in the future.
+
+Sincerely,
+
+John Doe
